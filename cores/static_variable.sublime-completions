@@ -1,0 +1,11 @@
+{
+	"scope": "source.java",
+	"completions":
+	[
+		{"trigger": "EMPTY\tjunit static", "contents": "EMPTY"},
+		{"trigger": "NONE\tjunit static", "contents": "NONE"},
+		{"trigger": "NOT_MATCHED\tjunit static", "contents": "NOT_MATCHED"},
+		{"trigger": "NULL\tjunit static", "contents": "NULL"},
+		{"trigger": "TEST_MECHANISM\tjunit static", "contents": "TEST_MECHANISM"}
+	]
+}

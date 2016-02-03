@@ -1,0 +1,20 @@
+{
+	"scope": "source.java",
+	"completions":
+	[
+		{"trigger": "Annotatable\tjunit interface", "contents": "Annotatable"},
+		{"trigger": "Describable\tjunit interface", "contents": "Describable"},
+		{"trigger": "Description\tjunit interface", "contents": "Description"},
+		{"trigger": "Filterable\tjunit interface", "contents": "Filterable"},
+		{"trigger": "FilterFactory\tjunit interface", "contents": "FilterFactory"},
+		{"trigger": "MethodRule\tjunit interface", "contents": "MethodRule"},
+		{"trigger": "ParametersRunnerFactory\tjunit interface", "contents": "ParametersRunnerFactory"},
+		{"trigger": "RunnerScheduler\tjunit interface", "contents": "RunnerScheduler"},
+		{"trigger": "SelfDescribing\tjunit interface", "contents": "SelfDescribing"},
+		{"trigger": "Sortable\tjunit interface", "contents": "Sortable"},
+		{"trigger": "TestClassValidator\tjunit interface", "contents": "TestClassValidator"},
+		{"trigger": "TestRule\tjunit interface", "contents": "TestRule"},
+		{"trigger": "Step<I,0>\tjunit interface", "contents": "Condition.Step<${1:I}, ${2:O}>"},
+		{"trigger": "Matcher<T>\tjunit interface", "contents": "Matcher<T>"}
+	]
+}

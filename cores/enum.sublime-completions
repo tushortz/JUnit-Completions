@@ -1,0 +1,7 @@
+{
+	"scope": "source.java",
+	"completions":
+	[
+		{"trigger": "MethodSorters\tjunit enum", "contents": "MethodSorters"}
+	]
+}

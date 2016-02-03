@@ -1,0 +1,7 @@
+{
+	"scope": "source.java",
+	"completions":
+	[
+		{"trigger": "ComparisonFailure\tjunit error", "contents": "ComparisonFailure"}
+	]
+}

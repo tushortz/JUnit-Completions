@@ -1,0 +1,31 @@
+{
+	"scope": "source.java",
+	"completions":
+	[
+		{"trigger": "AfterClass\tjunit anno", "contents": "AfterClass"},
+		{"trigger": "Before\tjunit anno", "contents": "Before"},
+		{"trigger": "BeforeClass\tjunit anno", "contents": "BeforeClass"},
+		{"trigger": "Categories\tjunit anno", "contents": "Categories.ExcludeCategory"},
+		{"trigger": "Categories\tjunit anno", "contents": "Categories.IncludeCategory"},
+		{"trigger": "Category\tjunit anno", "contents": "Category"},
+		{"trigger": "ClassRule\tjunit anno", "contents": "ClassRule"},
+		{"trigger": "DataPoint\tjunit anno", "contents": "DataPoint"},
+		{"trigger": "DataPoints\tjunit anno", "contents": "DataPoints"},
+		{"trigger": "Factory\tjunit anno", "contents": "Factory"},
+		{"trigger": "FixMethodOrder\tjunit anno", "contents": "FixMethodOrder"},
+		{"trigger": "FromDataPoints\tjunit anno", "contents": "FromDataPoints"},
+		{"trigger": "Ignore\tjunit anno", "contents": "Ignore"},
+		{"trigger": "Parameterized\tjunit anno", "contents": "Parameterized.Parameter"},
+		{"trigger": "Parameterized\tjunit anno", "contents": "Parameterized.Parameters"},
+		{"trigger": "Parameterized\tjunit anno", "contents": "Parameterized.UseParametersRunnerFactory"},
+		{"trigger": "ParametersSuppliedBy\tjunit anno", "contents": "ParametersSuppliedBy"},
+		{"trigger": "Rule\tjunit anno", "contents": "Rule"},
+		{"trigger": "RunListener\tjunit anno", "contents": "RunListener.ThreadSafe"},
+		{"trigger": "RunWith\tjunit anno", "contents": "RunWith"},
+		{"trigger": "Suite\tjunit anno", "contents": "Suite.SuiteClasses"},
+		{"trigger": "Test\tjunit anno", "contents": "Test"},
+		{"trigger": "TestedOn\tjunit anno", "contents": "TestedOn"},
+		{"trigger": "Theory\tjunit anno", "contents": "Theory"},
+		{"trigger": "ValidateWith\tjunit anno", "contents": "ValidateWith"}
+	]
+}

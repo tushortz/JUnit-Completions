@@ -1,0 +1,22 @@
+{
+	"scope": "source.java",
+	"completions":
+	[
+		{"trigger": "ASSERTARRAYEQUALS\tjunit import", "contents": "import static org.junit.Assert.assertArrayEquals;"},
+		{"trigger": "ASSERTEQUALS\tjunit import", "contents": "import static org.junit.Assert.assertEquals;"},
+		{"trigger": "ASSERTFALSE\tjunit import", "contents": "import static org.junit.Assert.assertFalse;"},
+		{"trigger": "ASSERTNOTEQUALS\tjunit import", "contents": "import static org.junit.Assert.assertNotEquals;"},
+		{"trigger": "ASSERTNOTNULL\tjunit import", "contents": "import static org.junit.Assert.assertNotNull;"},
+		{"trigger": "ASSERTNOTSAME\tjunit import", "contents": "import static org.junit.Assert.assertNotSame;"},
+		{"trigger": "ASSERTNULL\tjunit import", "contents": "import static org.junit.Assert.assertNull;"},
+		{"trigger": "ASSERTSAME\tjunit import", "contents": "import static org.junit.Assert.assertSame;"},
+		{"trigger": "ASSERTTHAT\tjunit import", "contents": "import static org.junit.Assert.assertThat;"},
+		{"trigger": "ASSERTTRUE\tjunit import", "contents": "import static org.junit.Assert.assertTrue;"},
+		{"trigger": "ASSUMEFALSE\tjunit import", "contents": "import static org.junit.Assume.assumeFalse;"},
+		{"trigger": "ASSUMENOEXCEPTION\tjunit import", "contents": "import static org.junit.Assume.assumeNoException;"},
+		{"trigger": "ASSUMENOTNULL\tjunit import", "contents": "import static org.junit.Assume.assumeNotNull;"},
+		{"trigger": "ASSUMETHAT\tjunit import", "contents": "import static org.junit.Assume.assumeThat;"},
+		{"trigger": "ASSUMETRUE\tjunit import", "contents": "import static org.junit.Assume.assumeTrue;"},
+		{"trigger": "FAIL\tjunit import", "contents": "import static org.junit.Assert.fail;"}
+	]
+}
